@@ -1,4 +1,4 @@
-var userAge = 18;
+var userAge = 17;
 console.log(userAge);
 
 var username = "subscribed";
