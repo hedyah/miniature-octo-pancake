@@ -1,10 +1,8 @@
-var userAge = 17;
+var userAge = 18;
 console.log(userAge);
 
 var username = "subscribed";
 
-//var bool = true;
-//console.log(typeof(bool));
 
 if (userAge >= 18){
     console.log("user is old enough");
